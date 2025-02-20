@@ -47,8 +47,7 @@ instagram
             </a>
             <a href="https://x.com/">
                 <img src="./img/X.png" alt="twiter" height="35px">
-            </a>            
+            </a>
         </div>
-    </div>
     </div>
 </menu>
