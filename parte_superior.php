@@ -18,23 +18,23 @@
 
 
     <div class="menu-down">
-        <div class="menu-izquierda">
-            <a href="">News</a>
-            <a href="">Discord Webhook</a>
-            <a href="">Database</a>
-            <a href="">Tools</a>
-            <a href="">Guides</a>
-            <a href="">Community</a>
-            <a href="">Premium</a>
+        <div class="menu-container">
+            <div class="hamburger-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="menu-izquierda">
+                <a href="">News</a>
+                <a href="">Discord Webhook</a>
+                <a href="">Database</a>
+                <a href="">Tools</a>
+                <a href="">Guides</a>
+                <a href="">Community</a>
+                <a href="">Premium</a>
 
+            </div>
         </div>
-
-        <!-- Tarea
-replicar con imagenes el menu de la derecha de la pagina wowhead para el menu
-correo
-facebook
-instagram
--->
         <div class="menu-derecha">
             <a href="mailto:">
                 <img src="./img/correo.png" alt="correo" height="35px">
