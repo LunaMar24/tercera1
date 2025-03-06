@@ -3,7 +3,7 @@ console.log("Cargando Acordion");
 const dataAccordion = [
     {
         "title":"Nuevos lanzamientos",
-        "desc": "Ofrecemos lo último en videojuegos"
+        "desc": "Ofrecemos lo último en videojuegos para toda la familia que le gusta jugar"
     },
     {
         "title":"Nuevos lanzamientos Marcela",
